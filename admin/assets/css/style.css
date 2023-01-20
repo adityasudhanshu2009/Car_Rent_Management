@@ -1718,7 +1718,7 @@ span.stat-icons {
     font-style: italic;
 }
 hr.divider {
-    border-top-color: #007bff;
+    border-top-color: #000000;
     max-width: calc(30%);
 }
 span.select2-selection.select2-selection--single {
@@ -1729,3 +1729,4 @@ span.select2-selection.select2-selection--single {
 }
 span.select2-selection__arrow {
     top: .3rem !important;
+}
